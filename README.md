@@ -1,113 +1,25 @@
-<h1 align="center">👋 Hi, I'm Ahmed Elmannan</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Django Backend Engineer | DevOps & Cloud Enthusiast</h3>
+# 💫 About Me:
+🛠 I'm currently working on<br><br>Building CircleAI Platform, a full multi-tenant SaaS ecosystem (CRM + HR + Finance + Legal) using Django, DRF, Vue, Docker, and modern DevOps workflows.<br><br>🤝 I’m looking to collaborate on<br><br>Scalable backend architectures, API-driven systems, DevOps automation, and full-stack SaaS projects.<br><br>🙋‍♂️ I’m looking for help with<br><br>Advanced Kubernetes setups, distributed systems optimization, and cloud cost-efficient deployments.<br><br>🌱 I’m currently learning<br><br>High-availability system design, microservices scaling, and deeper cloud-native patterns (CI/CD pipelines, observability, infra-as-code).<br><br>💬 Ask me about<br><br>Backend engineering, Django best practices, DevOps pipelines, system architecture, SaaS design, and production deployment strategies.<br><br>⚡ Fun fact<br><br>I automate everything I can — from development workflows to full CI/CD pipelines — because time saved is innovation earned.
 
-<p align="center">
-  <a href="https://elmannan.site" target="_blank">
-    <img src="https://img.shields.io/badge/Website-elmannan.site-blue?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-ata-elmannan-8a11a9238" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Elmannan-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:a.elmannan@crclai.com">
-    <img src="https://img.shields.io/badge/Email-a.elmannan%40crclai.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed.elmannan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmed-ata-elmannan-8a11a9238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.elmannan.site) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AhmedAtaElmannan&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AhmedAtaElmannan&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAtaElmannan&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm **Ahmed Elmannan**, a passionate **Full-Stack Developer** and **Software Engineer** with strong experience in:
-
-- Backend Development (**Django**, **DRF**)  
-- Full-Stack Architecture & API Design  
-- DevOps & Cloud Engineering  
-- Docker, CI/CD, and Production Deployment  
-- Building Scalable SaaS Platforms  
-- Automating development workflows & infrastructure  
-
-I specialize in designing clean, scalable systems and turning business requirements into reliable solutions.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AhmedAtaElmannan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AhmedAtaElmannan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Tech Stack & Tools
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AhmedElmannan) 
 
-### **Backend**
-- Django / DRF  
-- Celery  
-- PostgreSQL  
-- Redis  
-- REST APIs  
-- JWT Authentication  
-
-### **Frontend**
-- Vue.js  
-- Vite  
-- TailwindCSS  
-- JavaScript / TypeScript  
-
-### **DevOps & Cloud**
-- Docker / Docker Compose  
-- Linux / Ubuntu  
-- CI/CD (GitHub Actions)  
-- Nginx  
-- Cloud Hosting & Deployment  
-
-### **Other Tools**
-- Git / GitHub  
-- VS Code  
-- Postman  
-- Linux Shell  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 **CircleAI Platform (HR + LAW SaaS)**
-A complete multi-tenant platform running HR + Legal systems with:
-
-- Django backend  
-- Vue frontend  
-- Docker microservices  
-- Celery + Redis  
-- Audit logs & workflows  
-- Multi-tenancy  
-
-👉 **Private Repository — Work in Progress**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AhmedAtaElmannan&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAtaElmannan&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedAtaElmannan&theme=radical" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAtaElmannan&theme=react-dark" />
-</p>
-
----
-
-## 📫 Contact
-
-- 🌐 Portfolio: **https://elmannan.site**
-- 💼 LinkedIn: **/ahmed-ata-elmannan-8a11a9238**
-- 📧 Email: **a.elmannan@crclai.com**
-
----
-
-<h3 align="center">🔥 Always building. Always learning. Always improving.</h3>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
